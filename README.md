@@ -26,6 +26,14 @@
 * [AwardSpace](https://www.awardspace.com/)
 * [FreeHosting](https://www.freehosting.com/)
 * [Free Web Hosting Area](https://www.freewebhostingarea.com/)
+* [x10hosting](https://x10hosting.com/)
+* [ZettaHost](https://www.zettahost.com/)
+* [50Webs](https://www.50webs.com/)
+* [UHostFull](https://www.uhostfull.com/)
+* [FreeHostingEU](https://www.freehostingeu.com/)
+* [1FreeHosting](https://www.1freehosting.com/)
+* [xTreemHost](https://www.xtreemhost.com/)
+* [Jimdo](https://www.jimdo.com/)
 
 ### Italian Webhostings
 
