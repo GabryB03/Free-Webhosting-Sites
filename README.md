@@ -20,6 +20,12 @@
 * [Weebly](https://weebly.com/)
 * [Hostinger](https://www.hostinger.com/)
 * [Wix](https://wix.com/)
+* [InfinityFree](https://www.infinityfree.net/)
+* [ByetHost](https://byet.host/)
+* [HyperPHP](http://hyperphp.com/)
+* [AwardSpace](https://www.awardspace.com/)
+* [FreeHosting](https://www.freehosting.com/)
+* [Free Web Hosting Area](https://www.freewebhostingarea.com/)
 
 ### Italian Webhostings
 
