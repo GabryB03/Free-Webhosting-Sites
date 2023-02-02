@@ -2,6 +2,7 @@
 
 ### International Webhostings
 
+* [GitHub Pages](https://pages.github.com/)
 * [Cwahi](https://cwahi.com/)
 * [110mb](https://110mb.com/)
 * [Ripway](https://ripway.com/)
