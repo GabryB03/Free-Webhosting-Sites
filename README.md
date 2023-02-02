@@ -3,6 +3,8 @@
 ### International Webhostings
 
 * [GitHub Pages](https://pages.github.com/)
+* [Google Firebase](https://firebase.google.com/docs/hosting)
+* [Google Sites](https://sites.google.com/)
 * [Cwahi](https://cwahi.com/)
 * [110mb](https://110mb.com/)
 * [Ripway](https://ripway.com/)
